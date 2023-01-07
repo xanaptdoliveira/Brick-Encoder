@@ -13,11 +13,25 @@ LDC 2022/23
 *This is the description*
 
 
+hello
+
+
+[![Watch the video](images/videocover1.png)](https://vimeo.com/787128781)
+
+
+hello 
+
+
+### Process
+![](images/indesign.gif)
+[![Watch the video](images/videocover2.png)](https://vimeo.com/787128781)
 
 
 ### References
 
-### Credits
+
+
+# Credits
 This project was created by [Alexandra Oliveira](http://alexandraoliveira.pt/) 
 with the guidance and assistance of 
 [Tiago Martins](http://cdv.dei.uc.pt/people/tiago-martins/), 
