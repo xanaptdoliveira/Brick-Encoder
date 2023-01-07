@@ -1,15 +1,12 @@
+![](images/01.png)
+![](images/02.gif)
+*This is the description*
+
 # Brick Encoder
 Brick Encoder 
 Drawing with bricks
 
 LDC 2022/23
-
-
-![](images/01.png)
-*This is the description*
-
-![](images/02.gif)
-*This is the description*
 
 
 
