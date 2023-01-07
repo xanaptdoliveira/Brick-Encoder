@@ -15,7 +15,7 @@ LDC 2022/23
 
 # Watch the Video
 
-[![Watch the video](images/videocover1.png)](https://vimeo.com/787128781)
+
 
 
 hello 
@@ -24,6 +24,7 @@ hello
 # Process
 ### Indesign
 ![](images/indesign.gif)
+[![Watch the video](images/videocover1.png)](https://vimeo.com/787128781)
 ### Watch the video
 [![Watch the video](images/videocover2.png)](https://vimeo.com/787131355)
 
