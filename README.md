@@ -1,16 +1,11 @@
 <a name="readme-top"></a>
 
-![](images/01.png)
+![](images/01.gif)
 
 
 # Brick Encoder
 Brick Encoder 
 Drawing with bricks
-
-LDC 2022/23
-
-![](images/02.gif)
-*This is the description*
 
 
 # Watch the Video
@@ -23,9 +18,9 @@ hello
 
 # Process
 ### Indesign prototype
-![](images/indesign.gif)
+  <img src="images/indesign.gif" width="75%">
 ### Video: Compilation of the process
-[![Watch the video](images/videocover2.png)](https://vimeo.com/787131355)
+[<img src="images/videocover1.png" width="75%">](https://vimeo.com/787131355)
 ### Video: Joana Espadinha x2000
 [![Watch the video](images/videocover1.png)](https://vimeo.com/787128781)
 
