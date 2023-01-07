@@ -1,13 +1,6 @@
 <a name="readme-top"></a>
 
 ![](images/01.gif)
-
-
-# Process
-### Indesign prototype
-<img src="images/indesign.gif" width="100%">
-
-### Video: Compilation of the process
 [<img src="images/videocover1.png" width="100%">](https://vimeo.com/787131355)
 
 
