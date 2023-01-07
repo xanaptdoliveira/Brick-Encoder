@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 ![](images/01.png)
 
 
@@ -27,3 +29,5 @@ for the Computational Design Lab course unit of the master's degree in [Design a
 (Faculty of Sciences and Technology of the University of Coimbra).
 
 January 2023
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
