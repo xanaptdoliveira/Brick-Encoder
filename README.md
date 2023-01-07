@@ -22,7 +22,9 @@ hello
 
 
 # Process
+### Indesign
 ![](images/indesign.gif)
+### Watch the video
 [![Watch the video](images/videocover2.png)](https://vimeo.com/787131355)
 
 
