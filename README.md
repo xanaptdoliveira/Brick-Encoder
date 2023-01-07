@@ -3,19 +3,6 @@
 ![](images/01.gif)
 
 
-# Brick Encoder
-Brick Encoder 
-Drawing with bricks
-
-
-# Watch the Video
-
-
-
-
-hello 
-
-
 # Process
 ### Indesign prototype
   <img src="images/indesign.gif" width="75%">
