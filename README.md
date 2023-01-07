@@ -4,6 +4,11 @@
 [<img src="images/videocover1.png" width="100%">](https://vimeo.com/787131355)
 
 
+# Structure
+Digital Legos
+Color Tracking
+Object Detection
+
 # Credits
 This project was created by [Alexandra Oliveira](http://alexandraoliveira.pt/) 
 with the guidance and assistance of 
