@@ -1,5 +1,8 @@
-# Brick-Encoder
-Brick Encoder LDC 2022/23
+# Brick Encoder
+Brick Encoder 
+Drawing with bricks
+
+LDC 2022/23
 
 
 ![](images/evolving-A.png)
