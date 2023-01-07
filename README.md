@@ -22,15 +22,17 @@ hello
 
 
 # Process
-### Indesign
+### Indesign prototype
 ![](images/indesign.gif)
-[![Watch the video](images/videocover1.png)](https://vimeo.com/787128781)
-### Watch the video
+### Video: Compilation of the process
 [![Watch the video](images/videocover2.png)](https://vimeo.com/787131355)
+### Video: Joana Espadinha x2000
+[![Watch the video](images/videocover1.png)](https://vimeo.com/787128781)
 
 
-### References
+# References
 
+Here are the references
 
 
 # Credits
