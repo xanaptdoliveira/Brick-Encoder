@@ -5,7 +5,10 @@ Drawing with bricks
 LDC 2022/23
 
 
-![](images/evolving-A.png)
+![](images/01.png)
+*This is the description*
+
+![](images/02.gif)
 *This is the description*
 
 
