@@ -5,16 +5,10 @@
 
 # Process
 ### Indesign prototype
-  <img src="images/indesign.gif" width="75%">
+<img src="images/indesign.gif" width="100%">
+
 ### Video: Compilation of the process
-[<img src="images/videocover1.png" width="75%">](https://vimeo.com/787131355)
-### Video: Joana Espadinha x2000
-[![Watch the video](images/videocover1.png)](https://vimeo.com/787128781)
-
-
-# References
-
-Here are the references
+[<img src="images/videocover1.png" width="100%">](https://vimeo.com/787131355)
 
 
 # Credits
