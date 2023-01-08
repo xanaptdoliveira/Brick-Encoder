@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-![](images/01.gif)
+![](images/00.gif)
 # Watch the video
 [<img src="images/videocover1.png" width="100%">](https://vimeo.com/787131355)
 
