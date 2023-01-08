@@ -8,10 +8,14 @@
 # Structure of code & Video of the process
 **Digital Legos**
 -
+Using [p5.js](https://p5js.org/)
+
 This is the main code we developed. We experimented with several drawing modes and went with the first one we created. I want to start this one over with functionalities that aid in the type design process (guides, grids, etc.). 
 Thank you to all professors that guided us in this direction. Digital 2D legos are also cool :)
+</br>
+  
 
-[<img src="images/img1.png" width="60%">]
+<img src="images/img1.png" width="60%">
 
 
 
@@ -19,9 +23,9 @@ Thank you to all professors that guided us in this direction. Digital 2D legos a
 
 **Object Detection**
 -
-This code reflects our attempts at going tangible with legos using object detection.
+Using [Roboflow](https://universe.roboflow.com/)
 
-Thank you to professor Sérgio Rebelo ((👋)) for taking the time to provide this code, allowing us to try out image classification and object detection. We learned a lot, loved the image classification process, and will CERTAINLY use this knowledge and experiment using roboflow in the future.
+This code reflects our attempt at going tangible with legos using object detection. Thank you to professor Sérgio Rebelo ((👋)) for taking the time to provide this code, allowing us to try out image classification and object detection. We learned a lot using Roboflow, loved the image classification process, and will CERTAINLY use this knowledge in the future.
 
 <img src="images/img2.png" width="60%">
 
@@ -29,8 +33,10 @@ Thank you to professor Sérgio Rebelo ((👋)) for taking the time to provide th
 
 **Color Tracking**
 -
+Using [p5.js](https://p5js.org/) and [tracking.js](https://trackingjs.com/)
+
 This code was delevoped following the guidance of professor Penousal to solve the problem using color tracking + grid. 
-We tried tracking.js using professor Sérgio's code as a starting point (who also helped us on this one!). We got stuck on the formulas to detect the colors we wanted in trackingColors.js. We gave up! And advanced to the materialization phase with the digital legos.
+We tried *tracking.js* using professor Sérgio's code as a starting point (who also helped us on this one!). We got stuck on the formulas to detect the colors we wanted in trackingColors.js. We gave up! And advanced to the materialization phase with the digital legos.
 
 <img src="images/img3.png" width="60%">
 
