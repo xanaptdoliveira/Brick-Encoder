@@ -5,7 +5,7 @@
 [<img src="images/videocover1.png" width="100%">](https://vimeo.com/787131355)
 
 
-# Structure of code & Process Video
+# Structure of code & Video of the process
 **Digital Legos**
 -
 This is the main code we developed. We experimented with several drawing modes and went with the first one we created. I want to start this one over with functionalities that aid in the type design process (guides, grids, etc.). 
