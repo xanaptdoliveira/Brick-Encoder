@@ -9,21 +9,31 @@ WATCH THE VIDEO
 **Digital Legos**
 -
 This is the main code we developed. We experimented with several drawing modes and went with the first one we created. I want to start this one over with functionalities that aid in the type design process (guides, grids, etc.). 
-[<img src="images/img1.png" width="75%">]
 Thank you to all professors that guided us in this direction. Digital 2D legos are also cool :)
+
+[<img src="images/img1.png" width="60%">]
+
+
+
 
 
 **Object Detection**
 -
 This code reflects our attempts at going tangible with legos using object detection.
-[<img src="images/img2.png" width="75%">]
+
 Thank you to professor Sérgio Rebelo ((👋)) for taking the time to provide this code, allowing us to try out image classification and object detection. We learned a lot, loved the image classification process, and will CERTAINLY use this knowledge and experiment with roboflow in the future.
+
+<img src="images/img2.png" width="60%">
+
+
 
 **Color Tracking**
 -
 This code was delevoped following the guidance of professor Penousal to solve the problem using color tracking + grid. 
-[<img src="images/img3.png" width="75%">]
-We tried tracking.js using professor Sérgio's code as a starting point (who also helped us on this one!). We got stuck on the formulas to detect the colors we wanted in trackingColors.js. We gave up! And advanced to the materialization phase with the Digital Legos code.
+We tried tracking.js using professor Sérgio's code as a starting point (who also helped us on this one!). We got stuck on the formulas to detect the colors we wanted in trackingColors.js. We gave up! And advanced to the materialization phase with the digital legos.
+
+<img src="images/img3.png" width="60%">
+
 
 We still can't implement Brick ⍩⃝ Media Encoder. 
 Who knows in the future!!!
