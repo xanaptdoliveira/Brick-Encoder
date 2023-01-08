@@ -21,7 +21,7 @@ Thank you to all professors that guided us in this direction. Digital 2D legos a
 -
 This code reflects our attempts at going tangible with legos using object detection.
 
-Thank you to professor Sérgio Rebelo ((👋)) for taking the time to provide this code, allowing us to try out image classification and object detection. We learned a lot, loved the image classification process, and will CERTAINLY use this knowledge and experiment with roboflow in the future.
+Thank you to professor Sérgio Rebelo ((👋)) for taking the time to provide this code, allowing us to try out image classification and object detection. We learned a lot, loved the image classification process, and will CERTAINLY use this knowledge and experiment using roboflow in the future.
 
 <img src="images/img2.png" width="60%">
 
