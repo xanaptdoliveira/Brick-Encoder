@@ -23,7 +23,7 @@ Thank you to all professors that guided us in this direction. Digital 2D legos a
 
 **Object Detection**
 -
-Using [Roboflow](https://universe.roboflow.com/)
+Using [Roboflow](https://universe.roboflow.com/) and [p5.js](https://p5js.org/) 
 
 This code reflects our attempt at going tangible with legos using object detection. Thank you to professor Sérgio Rebelo ((👋)) for taking the time to provide this code, allowing us to try out image classification and object detection. We learned a lot using Roboflow, loved the image classification process, and will CERTAINLY use this knowledge in the future.
 
