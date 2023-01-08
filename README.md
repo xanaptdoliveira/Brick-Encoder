@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
 ![](images/01.gif)
+# Watch the video
 [<img src="images/videocover1.png" width="100%">](https://vimeo.com/787131355)
-WATCH THE VIDEO
 
 
 # Structure of code & Process Video
